@@ -45,26 +45,6 @@
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
         </p>
     </div>
-    <br>
-    <hr width="100%">
-    <div>
-        <p align=center>
-        <div align=center>
-            <a href="https://github.com/moyonenzo/moyonenzo" title="Go to Source">
-                <img align="left" width=390
-                    src="https://pr0vjp-github-readme.vercel.app/api?username=moyonenzo&show_icons=true&theme=midnight-purple&hide_border=true" />
-            </a>
-            <a href="https://github.com/moyonenzo/moyonenzo" title="Go to Source">
-                <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=moyonenzo&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
-            </a>
-        </div>
-        <br><br><br><br><br><br><br><br><br>
-        <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=moyonenzo&theme=midnight-purple&&hide_border=truelangs_count=8"
-                alt="top langs" />
-            </p>
-        </div>
 </body>
 
 </html>
