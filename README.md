@@ -10,9 +10,8 @@
     <div align ="center">
         <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS-Windown">
-        <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows-11">
+        <img src="https://img.shields.io/badge/MACOS-323330?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS">
+        <img src="https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows">
         </p>
     </div>
     <div align="center">
