@@ -8,6 +8,7 @@
 
 <body>
     <div align ="center">
+        <h3>Hi 👋 <br/>My name is Enzo 😎</h3>
         <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
         <img src="https://img.shields.io/badge/MACOS-323330?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS">
@@ -20,8 +21,6 @@
     </div>
     <hr width="100%">
     <div>
-            <h3>Hi 👋 <br/>My name is Enzo 😎</h3>
-    </a>
     <div>
         <h3>Languages:</h3>
         <p style="text-align: left;">
